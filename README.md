@@ -6,6 +6,8 @@ FinGenius AI is a comprehensive full-stack web application designed to manage fi
 
 This platform provides AI-powered features to streamline financial analysis, budgeting, forecasting, and more.
 
+live-https://fingenius-ai-psi.vercel.app/
+
 ## 🔧 Technologies Used
 
 ### Frontend:
