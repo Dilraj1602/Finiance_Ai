@@ -8,7 +8,7 @@ This platform provides AI-powered features to streamline financial analysis, bud
 
 live-https://fingenius-ai-psi.vercel.app/
 
-demo-https://fingenius-ai-psi.vercel.app/
+demo-https://drive.google.com/file/d/1QR__rO9gobUmENyCZlSezsW0nwJ2am7X/view?usp=drive_link
 
 ## 🔧 Technologies Used
 
