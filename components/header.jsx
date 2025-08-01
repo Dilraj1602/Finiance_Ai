@@ -13,7 +13,7 @@ const Header = async () => {
     <header className="fixed top-0 w-full bg-white/80 backdrop-blur-md z-50 border-b">
       <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/">
-        <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-500 to-cyan-400 text-transparent bg-clip-text">Finiance AI</h1>
+        <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-500 to-cyan-400 text-transparent bg-clip-text">Finance AI</h1>
         </Link>
 
         {/* Navigation Links - Different for signed in/out users */}
